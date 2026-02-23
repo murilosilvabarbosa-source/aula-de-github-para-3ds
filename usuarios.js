@@ -13,15 +13,30 @@ window.AppData.users = [
     name: "Ana Souza",
     role: "Financeiro",
     city: "Recife",
+    email: "anasouza@gmail.com"
   },
   {
     name: "Bruno Lima",
     role: "Vendas",
     city: "Curitiba",
+    email: "brunolima@gmail.com"
   },
   {
     name: "Carla Ramos",
     role: "Operacoes",
     city: "Salvador",
+    email: "carlaramos@gmail.com"
+  },
+  {
+    name: "alemao",
+    role: "Financeiro",
+    city: "Toledo",
+    email: "alemao@gmail.com"
+  },
+  {
+    name: "Murilo",
+    role: "Vendas",
+    city: "Toledo",
+    email: "murilo@gmail.com"
   },
 ];
